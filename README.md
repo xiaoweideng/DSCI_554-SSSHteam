@@ -7,3 +7,17 @@
 
 ### Project Summary  
 
+
+
+
+### Project Set Up
+
+* Collaboration Strategy:
+
+    We will be using the standard git branching for contributing to this project repository.
+
+* Survey Tool:
+
+    UBC Qualtrics:  https://ubc.qualtrics.com
+
+    The server is hosted in Canada.
